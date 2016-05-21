@@ -1,4 +1,0 @@
-<meta charset "UTF8">
-<script>
-alert("Hello");
-</script>
